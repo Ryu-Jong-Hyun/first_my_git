@@ -24,6 +24,9 @@
 			</tr>
 		</table>
 		<h2>추가해봅시다.</h2>
+		<ul>
+			<li>첫번째 리스트</li>
+		</ul>
 	</body>
 	<script>
 	</script>
