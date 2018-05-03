@@ -23,6 +23,7 @@
 				<td colspan="2"></td>
 			</tr>
 		</table>
+		<h2>추가해봅시다.</h2>
 	</body>
 	<script>
 	</script>
